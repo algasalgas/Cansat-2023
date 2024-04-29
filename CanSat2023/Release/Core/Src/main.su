@@ -1,0 +1,15 @@
+../Core/Src/main.c:1741:6:StartTask03	32	static
+../Core/Src/main.c:282:6:SystemClock_Config	96	static
+../Core/Src/main.c:168:5:main	96	static
+../Core/Src/main.c:725:6:floatToByte	0	static
+../Core/Src/main.c:741:6:HAL_GPIO_EXTI_Callback	160	static
+../Core/Src/main.c:870:5:_write	8	static
+../Core/Src/main.c:885:9:UTCToInt	24	static
+../Core/Src/main.c:928:6:GPSToInt	24	static
+../Core/Src/main.c:952:7:PressToHeight	8	static
+../Core/Src/main.c:1226:6:StartDefaultTask	1200	dynamic
+../Core/Src/main.c:983:6:NMEA_Handler	40	static
+../Core/Src/main.c:731:6:HAL_UART_RxCpltCallback	8	static
+../Core/Src/main.c:1087:6:NMEA_HandlerLegacy	40	static
+../Core/Src/main.c:1845:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:1862:6:Error_Handler	0	static

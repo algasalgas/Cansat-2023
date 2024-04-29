@@ -1,0 +1,8 @@
+../Core/Src/L3G4200D.c:57:9:L3GgetGyroX	0	static
+../Core/Src/L3G4200D.c:60:9:L3GgetGyroY	0	static
+../Core/Src/L3G4200D.c:63:9:L3GgetGyroZ	0	static
+../Core/Src/L3G4200D.c:67:6:writeRegL3G	24	static
+../Core/Src/L3G4200D.c:8:6:L3G4200D_init	8	static
+../Core/Src/L3G4200D.c:78:6:readRegL3G	24	static
+../Core/Src/L3G4200D.c:27:6:L3GgetGyro	16	static
+../Core/Src/L3G4200D.c:86:9:L3Gid	16	static

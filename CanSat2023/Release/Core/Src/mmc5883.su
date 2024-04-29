@@ -1,0 +1,7 @@
+../Core/Src/mmc5883.c:36:9:MMCgetMAGX	0	static
+../Core/Src/mmc5883.c:39:9:MMCgetMAGY	0	static
+../Core/Src/mmc5883.c:42:9:MMCgetMAGZ	0	static
+../Core/Src/mmc5883.c:45:6:writeRegMMC	24	static
+../Core/Src/mmc5883.c:11:6:MMC5883_init	8	static
+../Core/Src/mmc5883.c:62:6:readRegMMC	24	static
+../Core/Src/mmc5883.c:16:6:MMCgetMag	16	static

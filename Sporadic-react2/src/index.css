@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#serialResults{
+  opacity: 100;
+  color: red;
+  display: flex;
+  vertical-align: top;
+}
+#DataList{
+  color: red;
+  display: flex;
+  margin-top: 20px;
+}
+#chart1{
+  color: red;
+  display: flex;
+  margin-top: 20px;
+}
+canvas.blackie {
+  background-color: 0;
+}
+
+#first {display:inline-block;margin-right:9px; margin-left: 1px;margin-bottom: 10px;vertical-align: top;} 
+#second {display:inline-block;margin-right:10px;margin-bottom: 10px;} 
+#textboxicr {display: inline-block; vertical-align: top;}
+#third {display:inline-block;margin-right:10px; margin-top: 15px; vertical-align: top} 
+#fourth {display:inline-block;vertical-align: top;margin-top: 15px;} 
+#mapka{display:inline-block;vertical-align: top;margin-top: 15px;}
